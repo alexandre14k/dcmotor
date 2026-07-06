@@ -1,6 +1,7 @@
 add_rules("mode.debug", "mode.release")
 
-add_requires("fmt", "gtk4")
+add_requires("gtk4")
+add_requires("fmt", {system = true})
 
 target("dcmotor")
     set_kind("binary")
