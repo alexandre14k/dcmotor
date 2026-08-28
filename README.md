@@ -2,6 +2,8 @@
 A multi-threaded C++ application that simulates a DC motor with a PID controller, built using GTK4 and Cairo.
 It features real-time plotting, adjustable motor dynamics, noise injection, and disturbance testing.
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/dcmotor&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 ## Features
 
 ### Architecture
